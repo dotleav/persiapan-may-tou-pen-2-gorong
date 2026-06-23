@@ -1,0 +1,1322 @@
+[
+  {
+    "id": "M1",
+    "question": "Dalam abstrak karya ilmiah kedokteran, bagian manakah yang biasanya memuat alasan atau latar belakang dilakukannya penelitian?",
+    "options": [
+      "Title",
+      "Introduction",
+      "Method",
+      "Result",
+      "Conclusion"
+    ],
+    "correct": 1,
+    "explanation": "Pada struktur abstrak IMRAD (Introduction, Method, Result, Discussion/Conclusion), alasan atau latar belakang penelitian (rationale) dituliskan pada bagian Introduction.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M2",
+    "question": "Perhatikan pertanyaan penelitian berikut: 'Apakah pemberian ekstrak teh hijau dapat menurunkan kadar gula darah puasa pada tikus model diabetes?' Manakah yang merupakan komponen Intervention dalam kerangka PICO?",
+    "options": [
+      "Kadar gula darah puasa",
+      "Tikus model diabetes",
+      "Pemberian ekstrak teh hijau",
+      "Penurunan kadar gula darah",
+      "Teh hijau tanpa ekstraksi"
+    ],
+    "correct": 2,
+    "explanation": "Dalam kerangka PICO: P=tikus model diabetes, I=pemberian ekstrak teh hijau, C=kontrol (tanpa ekstrak), O=kadar gula darah puasa. Intervention adalah perlakuan yang diberikan kepada kelompok studi.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M3",
+    "question": "Hewan coba jenis apakah yang paling umum digunakan dalam penelitian model penyakit diabetes mellitus?",
+    "options": [
+      "Bali cow",
+      "Bali pig",
+      "Kera",
+      "Tikus albino (Rattus norvegicus)",
+      "Anjing"
+    ],
+    "correct": 3,
+    "explanation": "Tikus albino (Rattus norvegicus) paling umum digunakan untuk model DM karena mudah diinduksi dengan streptozotocin/alloxan, biaya relatif murah, siklus hidup pendek, dan patofisiologi DM-nya menyerupai manusia.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M4",
+    "question": "Alur resmi pelaksanaan skripsi di Fakultas Kedokteran UKDW adalah...",
+    "options": [
+      "Proposal → Perijinan → Ethical Clearance → Pengambilan data → Semhas → Sidang",
+      "Proposal → Ethical Clearance → Perijinan → Pengambilan data → Penulisan → Semhas → Sidang",
+      "Proposal → Semhas → Ethical Clearance → Perijinan → Pengambilan data → Sidang",
+      "Ethical Clearance → Proposal → Perijinan → Pengambilan data → Semhas → Sidang",
+      "Proposal → Perijinan → Pengambilan data → Ethical Clearance → Semhas → Sidang"
+    ],
+    "correct": 1,
+    "explanation": "Alur baku: Proposal (sempro) → Ethical Clearance → Perijinan → Pelaksanaan (pengambilan sampel/data) → Penulisan laporan → Semhas → Sidang akhir.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M5",
+    "question": "Seorang peneliti mendapat informasi di grup WhatsApp bahwa bermain PUBG terlalu lama menyebabkan perilaku agresif. Steve ingin membuktikannya menggunakan uji dua ekor (two-tail test). Manakah yang merupakan hipotesis alternatif (H1) yang tepat?",
+    "options": [
+      "Bermain PUBG dapat meningkatkan perilaku agresif",
+      "Bermain PUBG dapat menurunkan perilaku agresif",
+      "Bermain PUBG tidak berhubungan dengan perilaku agresif",
+      "Bermain PUBG berhubungan dengan perilaku agresif",
+      "Bermain PUBG dapat menyebabkan perilaku agresif"
+    ],
+    "correct": 3,
+    "explanation": "Uji dua ekor (two-tail) digunakan ketika hipotesis alternatif tidak menyatakan arah hubungan (bisa lebih tinggi atau lebih rendah). Maka H1 yang tepat adalah 'berhubungan dengan' tanpa menyebut arah, berbeda dengan H1 satu ekor yang menyebut 'meningkatkan' atau 'menurunkan'.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M6",
+    "question": "Tony mendapat informasi bahwa menonton drama Korea terlalu lama menyebabkan depresi. Tony ingin membuktikannya secara ilmiah. Manakah yang merupakan hipotesis null (H0) yang tepat?",
+    "options": [
+      "Menonton drama Korea dapat menyebabkan depresi",
+      "Menonton drama Korea berhubungan dengan depresi",
+      "Menonton drama Korea tidak berhubungan dengan depresi",
+      "Menonton drama Korea berkorelasi positif dengan depresi",
+      "Menonton drama Korea meningkatkan kejadian depresi"
+    ],
+    "correct": 2,
+    "explanation": "Hipotesis null (H0) selalu menyatakan 'tidak ada perbedaan/hubungan.' Maka H0 adalah 'Menonton drama Korea tidak berhubungan dengan depresi.'",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M7",
+    "question": "Manakah pernyataan yang paling tepat mengenai alasan penggunaan hewan coba dalam penelitian kedokteran/kesehatan?",
+    "options": [
+      "Struktur jaringan pada semua hewan identik dengan manusia",
+      "Banyak percobaan yang tidak etis bila dilakukan langsung pada manusia",
+      "Patogenesis penyakit pada manusia dan hewan selalu identik",
+      "Prosedur dan kelayakan etik lebih sederhana pada hewan",
+      "Hewan tidak memerlukan standar keamanan dalam penelitian"
+    ],
+    "correct": 1,
+    "explanation": "Alasan utama penggunaan hewan coba adalah etis: banyak penelitian (uji toksisitas, dosis letal, mekanisme baru) tidak dapat dilakukan langsung pada manusia karena berpotensi membahayakan.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M8",
+    "question": "Seorang peneliti memberikan nomor 1-100 pada seluruh populasi, kemudian mengambil sampel mulai dari nomor 1, lalu setiap kelipatan 4 (nomor 1, 5, 9, 13, 17, ...). Teknik sampling apa yang digunakan?",
+    "options": [
+      "Simple random sampling",
+      "Stratified random sampling",
+      "Systematic random sampling",
+      "Cluster random sampling",
+      "Consecutive sampling"
+    ],
+    "correct": 2,
+    "explanation": "Systematic random sampling (sampling sistematik) dilakukan dengan memilih subjek pada interval tetap dari daftar populasi yang telah diberi nomor urut, misalnya setiap kelipatan k.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M9",
+    "question": "Berdasarkan piramida tingkat bukti Oxford Handbook of Key Clinical Evidence, manakah desain penelitian yang memiliki tingkat pembuktian (level of evidence) TERTINGGI?",
+    "options": [
+      "Studi kasus (case report)",
+      "Randomized Controlled Clinical Trial dengan power penelitian tinggi",
+      "Quasi eksperimental",
+      "Kohort prospektif",
+      "Konsensus ahli"
+    ],
+    "correct": 1,
+    "explanation": "Menurut Oxford HKCE, RCT dengan kualitas tinggi (power tinggi, blinding baik, randomiasasi baik) berada di puncak piramida bukti untuk pertanyaan tentang efektivitas terapi.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M10",
+    "question": "Jika peneliti ingin menguji obat analgesik baru dibandingkan obat analgesik standar, desain blinding manakah yang paling tepat untuk meminimalkan bias?",
+    "options": [
+      "Open label (tanpa blinding)",
+      "Single blind (hanya pasien)",
+      "Double blind (pasien dan dokter)",
+      "Triple blind (pasien, dokter, dan evaluator)",
+      "Blinding tidak diperlukan karena ada randomisasi"
+    ],
+    "correct": 3,
+    "explanation": "Untuk perbandingan dua obat aktif (bukan plasebo), triple blind (pasien, dokter pemberi, dan evaluator outcome) paling ideal untuk mencegah semua sumber bias pengukuran dan pengumpulan data.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M11",
+    "question": "Seorang mahasiswa FK ingin meneliti 'Strategi Tenaga Kesehatan Mengatasi Stigma yang Dihadapi Pasien HIV/AIDS'. Jenis desain penelitian kualitatif apa yang paling sesuai?",
+    "options": [
+      "Etnografi",
+      "Action Research",
+      "Fenomenologi",
+      "Studi Kasus",
+      "Grounded Theory"
+    ],
+    "correct": 2,
+    "explanation": "Fenomenologi berfokus pada eksplorasi pengalaman hidup (lived experience) individu terhadap suatu fenomena. Pertanyaan tentang 'strategi mengatasi stigma' mengeksplorasi pengalaman subjektif tenaga kesehatan sehingga fenomenologi paling tepat.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M12",
+    "question": "Studi Willowbrook adalah penelitian di mana anak-anak penyandang disabilitas mental secara sengaja diinfeksi virus hepatitis tanpa persetujuan yang memadai. Prinsip etika penelitian manakah yang paling utama dilanggar?",
+    "options": [
+      "Respect for persons",
+      "Beneficence",
+      "Justice",
+      "Non-maleficence",
+      "Autonomy"
+    ],
+    "correct": 3,
+    "explanation": "Studi Willowbrook melanggar Non-maleficence (tidak merugikan) karena secara aktif menginfeksi subjek dengan penyakit. Selain itu melanggar Respect for persons (tidak ada informed consent yang valid) dan Justice (memilih populasi rentan).",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M13",
+    "question": "Seorang peneliti tinggal bersama sebuah keluarga di desa pedalaman selama beberapa bulan untuk mengamati kehidupan sehari-hari mereka. Jenis observasi apa yang sedang dilakukan?",
+    "options": [
+      "Non-participant observation",
+      "Participant observation",
+      "Covert observation",
+      "Overt non-participant observation",
+      "Direct structured observation"
+    ],
+    "correct": 1,
+    "explanation": "Participant observation adalah teknik di mana peneliti terlibat langsung dan tinggal bersama komunitas yang diteliti untuk mendapatkan pemahaman mendalam dari dalam. Ini merupakan ciri khas penelitian etnografi.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M14",
+    "question": "Terdapat 40 perokok yang menderita kanker paru dan 60 perokok yang tidak menderita kanker paru. Di antara bukan perokok, 10 orang menderita kanker paru dan 90 orang tidak menderita. Berapakah Odds Ratio (OR)-nya?",
+    "options": [
+      "6,0",
+      "5,0",
+      "4,0",
+      "3,0",
+      "2,0"
+    ],
+    "correct": 0,
+    "explanation": "OR = (a×d)/(b×c) = (40×90)/(60×10) = 3600/600 = 6,0. Artinya perokok memiliki odds 6 kali lebih besar untuk menderita kanker paru dibandingkan bukan perokok.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M15",
+    "question": "Diketahui nilai interval kepercayaan (confidence interval) suatu penelitian adalah 0,45–1,42 dengan tingkat kepercayaan 95%. Manakah interpretasi yang paling tepat?",
+    "options": [
+      "Hasil penelitian bermakna secara statistik",
+      "Tingkat relevansi klinis rendah karena CI sangat sempit",
+      "Hasil berpotensi tidak bermakna karena CI mencakup nilai 1 (null value)",
+      "Populasi sampel terlalu kecil sehingga CI tidak dapat dipercaya",
+      "Bias relatif tinggi karena nilai tengah CI jauh dari 1"
+    ],
+    "correct": 2,
+    "explanation": "Pada uji yang menggunakan Relative Risk atau Odds Ratio, jika CI 95% mencakup nilai 1,0 (null value), hasil tidak bermakna secara statistik. CI 0,45–1,42 mencakup angka 1, sehingga tidak dapat menolak H0.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M16",
+    "question": "Peneliti meneliti efektivitas kurkumin untuk mengurangi nyeri pada pasien artritis kronis. Manakah yang merupakan variabel bebas (independent variable) dalam penelitian tersebut?",
+    "options": [
+      "Artritis",
+      "Nyeri sendi",
+      "Kurkumin",
+      "Usia pasien",
+      "Lama menderita artritis"
+    ],
+    "correct": 2,
+    "explanation": "Variabel bebas adalah variabel yang dimanipulasi atau diberikan oleh peneliti untuk melihat efeknya. Dalam penelitian ini, kurkumin adalah intervensi (variabel bebas), sedangkan nyeri adalah variabel tergantung (outcome).",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M17",
+    "question": "Suatu penelitian mengambil data respons/outcome pada satu titik waktu yang sama dari seluruh sampel. Apakah desain penelitian tersebut?",
+    "options": [
+      "Studi kohort",
+      "Randomized Controlled Trial",
+      "Cross-sectional",
+      "Pre-post test design",
+      "Case-control"
+    ],
+    "correct": 2,
+    "explanation": "Cross-sectional (potong lintang) adalah penelitian observasional yang mengambil data paparan dan outcome sekaligus pada satu titik waktu yang sama dari seluruh sampel.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M18",
+    "question": "Seorang tenaga kesehatan ingin melakukan penelitian tentang program penyuluhan HIV/AIDS di suatu komunitas. Metode penelitian apa yang paling tepat jika peneliti ingin sekaligus memecahkan masalah dan menghasilkan perubahan nyata di komunitas tersebut?",
+    "options": [
+      "Case study",
+      "Kohort",
+      "Action research",
+      "Cross-sectional",
+      "Grounded theory"
+    ],
+    "correct": 2,
+    "explanation": "Action research adalah penelitian yang bertujuan sekaligus memecahkan masalah praktis di lapangan dan menghasilkan pengetahuan baru. Sangat cocok untuk program intervensi komunitas seperti penyuluhan.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M19",
+    "question": "Manakah pernyataan yang paling tepat menggambarkan karakteristik khas Action Research?",
+    "options": [
+      "Peneliti hanya mengobservasi tanpa terlibat dalam komunitas",
+      "Berfokus pada pengembangan teori baru dari data",
+      "Melibatkan siklus berulang perencanaan, tindakan, observasi, dan refleksi untuk memecahkan masalah nyata",
+      "Menggunakan randomisasi untuk membagi kelompok intervensi",
+      "Mengumpulkan data kuantitatif dari sampel besar secara representatif"
+    ],
+    "correct": 2,
+    "explanation": "Karakteristik khas action research adalah siklus berulang (spiral): Plan → Act → Observe → Reflect, yang bertujuan untuk memecahkan masalah praktis sambil menghasilkan pengetahuan.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M20",
+    "question": "Terdapat dua rumah sakit yang akan menerapkan program kesehatan yang sama. Program di RS A berhasil lebih baik dari RS B. Setelah diteliti, perbedaan keberhasilan ini dipengaruhi oleh dukungan manajemen rumah sakit. Dalam penelitian ini, dukungan manajemen berperan sebagai apa?",
+    "options": [
+      "Variabel bebas",
+      "Variabel terikat",
+      "Variabel perancu",
+      "Effect modifier (variabel pengubah efek)",
+      "Variabel antara"
+    ],
+    "correct": 3,
+    "explanation": "Effect modifier adalah variabel yang mengubah besar atau arah efek variabel bebas terhadap variabel terikat pada level yang berbeda. Dukungan manajemen mengubah efek program pada outcome sehingga berperan sebagai effect modifier.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M21",
+    "question": "Pada tabel 2×2 diagnostik berikut: TP=80, FP=20, FN=20, TN=80. Berdasarkan rumus TN/(TN+FP), berapakah nilai spesifisitas alat tersebut?",
+    "options": [
+      "20%",
+      "50%",
+      "80%",
+      "90%",
+      "48%"
+    ],
+    "correct": 2,
+    "explanation": "Spesifisitas = TN / (TN + FP) = 80 / (80 + 20) = 80/100 = 80%. Spesifisitas mengukur kemampuan alat untuk mendeteksi orang sehat (TN) secara benar.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M22",
+    "question": "Dokter melakukan penelitian tentang kontrol konsumsi obat diabetes pada pasien DM tipe 2 di puskesmas. Selama penelitian, ternyata pasien sering mengonsumsi obat DM lain di luar sesi kontrol tanpa sepengetahuan dokter. Bias apa yang terjadi dalam penelitian ini?",
+    "options": [
+      "Reporting bias",
+      "Recall bias",
+      "Follow-up bias",
+      "Interviewer bias",
+      "Kontaminasi"
+    ],
+    "correct": 4,
+    "explanation": "Kontaminasi terjadi ketika kelompok kontrol atau subjek penelitian mendapatkan intervensi atau paparan yang seharusnya tidak mereka terima tanpa sepengetahuan peneliti, sehingga mengaburkan perbedaan antar kelompok.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M23",
+    "question": "Seorang mahasiswa ingin meneliti obat anti-kanker paru terbaru di kampusnya, namun kampus tidak memiliki fasilitas memadai dan biaya penelitian sangat mahal. Hambatan ini melanggar kriteria penelitian yang mana?",
+    "options": [
+      "Feasible",
+      "Interesting",
+      "Novelty",
+      "Ethical",
+      "Relevant"
+    ],
+    "correct": 0,
+    "explanation": "Feasible (layak) merujuk pada kemampuan peneliti untuk melaksanakan penelitian dengan sumber daya yang tersedia, termasuk biaya, fasilitas, waktu, dan keahlian. Keterbatasan fasilitas dan biaya adalah masalah feasibility.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M24",
+    "question": "Pada penelitian kasus tuberkulosis anak di Kecamatan Gondokusuman dengan kriteria inklusi: (1) usia ≤18 tahun, (2) tidak memiliki saudara kandung, (3) terdiagnosis TB milier, (4) bersedia mengikuti penelitian. Manakah yang paling tepat menjadi kriteria eksklusi?",
+    "options": [
+      "Tidak bersedia mengikuti penelitian",
+      "Berusia lebih dari 18 tahun",
+      "Memiliki satu kakak perempuan",
+      "Terdiagnosis TB kutis (jenis TB berbeda)",
+      "Tidak mampu menjawab semua pertanyaan"
+    ],
+    "correct": 3,
+    "explanation": "Kriteria eksklusi adalah kondisi yang TIDAK tercakup dalam kriteria inklusi namun perlu dikeluarkan. Karena inklusi hanya untuk TB milier, diagnosis TB jenis lain (seperti TB kutis) adalah kriteria eksklusi yang tepat karena karakteristik penyakitnya berbeda.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M25",
+    "question": "Dalam tinjauan pustaka, penulisan dilakukan secara berurutan dan masuk akal, dari topik umum menuju topik spesifik. Prinsip penulisan tinjauan pustaka manakah yang diterapkan?",
+    "options": [
+      "Logis",
+      "Koheren",
+      "Konsisten",
+      "Detail",
+      "Jelas"
+    ],
+    "correct": 1,
+    "explanation": "Koheren berarti penulisan tersusun dengan urutan yang masuk akal dan mengalir secara logis antar paragraf/bagian. Berbeda dengan 'logis' yang lebih merujuk pada kebenaran argumen.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M26",
+    "question": "Seorang peneliti melakukan penelitian dengan tinggal 3 bulan di kawasan nelayan untuk melakukan wawancara dan observasi partisipan tanpa memberikan intervensi apapun. Metode penelitian kualitatif apa yang paling tepat?",
+    "options": [
+      "Focus Group Discussion",
+      "Fenomenologi",
+      "Etnografi",
+      "Action Research",
+      "Grounded Theory"
+    ],
+    "correct": 2,
+    "explanation": "Etnografi adalah metode penelitian kualitatif di mana peneliti terlibat langsung (participant observation) dalam komunitas yang diteliti dalam waktu yang lama untuk memahami budaya dan kehidupan sehari-hari mereka.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M27",
+    "question": "Seorang peneliti mengamati aktivitas mahasiswa yang sedang melakukan OSCE melalui CCTV tanpa memberikan intervensi apapun dan tanpa diketahui oleh mahasiswa. Metode observasi apa yang sedang digunakan?",
+    "options": [
+      "Participant observation",
+      "Overt non-participant observation",
+      "Covert non-participant observation",
+      "Direct structured observation",
+      "Field observation"
+    ],
+    "correct": 2,
+    "explanation": "Covert (tersembunyi) karena subjek tidak mengetahui sedang diobservasi, dan non-participant karena peneliti tidak terlibat dalam aktivitas yang diamati. Penggunaan CCTV tanpa sepengetahuan subjek adalah ciri observasi covert.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M28",
+    "question": "Peneliti ingin mengukur berat badan anak di posyandu dari 36 kecamatan kota, namun karena keterbatasan biaya, hanya 10 kecamatan yang dipilih secara acak, dan seluruh anak di posyandu kecamatan terpilih diukur. Metode sampling apa yang digunakan?",
+    "options": [
+      "Randomized control trial",
+      "Systematic random sampling",
+      "Stratified random sampling",
+      "Cluster random sampling",
+      "Simple random sampling"
+    ],
+    "correct": 3,
+    "explanation": "Cluster sampling: populasi dibagi dalam kelompok (cluster = kecamatan), kemudian beberapa cluster dipilih secara acak, dan seluruh unit dalam cluster terpilih diikutsertakan. Cocok ketika populasi tersebar luas dan sumber daya terbatas.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M29",
+    "question": "Seorang mahasiswa mengumpulkan data di perpustakaan dengan meminta semua pengunjung yang datang dalam jam tertentu untuk mengisi kuesioner, meskipun menyadari sampelnya kurang representatif. Teknik sampling apa ini?",
+    "options": [
+      "Convenience sampling",
+      "Consecutive sampling",
+      "Cluster sampling",
+      "Purposive sampling",
+      "Snowball sampling"
+    ],
+    "correct": 0,
+    "explanation": "Convenience sampling (sampling kemudahan/aksidental) adalah pengambilan sampel berdasarkan kemudahan akses — siapa saja yang tersedia dan mudah dijangkau pada waktu dan tempat tertentu.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M30",
+    "question": "Manakah syarat yang benar untuk penggunaan uji Chi-Square pada tabel lebih dari 2×2?",
+    "options": [
+      "Pada tabel 2×2, nilai harapan (expected value) boleh ada yang kurang dari 5",
+      "Nilai harapan pada setiap sel harus ≥10",
+      "Pada tabel lebih dari 2×2, nilai harapan boleh ada yang <5 asalkan jumlahnya tidak lebih dari 20% sel",
+      "Pada tabel 2×2, minimal 50% sel harus memiliki nilai harapan ≥5",
+      "Semua nilai harapan harus sama dengan nilai observasi"
+    ],
+    "correct": 2,
+    "explanation": "Syarat Chi-Square: (1) Tabel 2×2: semua sel EV ≥5 (jika ada yang <5 gunakan Fisher's Exact). (2) Tabel >2×2: EV boleh ada yang <5 asalkan jumlah sel dengan EV<5 tidak melebihi 20% dari total sel.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M31",
+    "question": "Berdasarkan tingkat pembuktian (level of evidence) pada Oxford HKCE, desain penelitian manakah yang termasuk kategori level IIb?",
+    "options": [
+      "Systematic review dari RCT",
+      "Individual RCT dengan power tinggi",
+      "Individual cohort study atau RCT dengan kualitas rendah",
+      "Case-control study",
+      "Case series"
+    ],
+    "correct": 2,
+    "explanation": "Pada Oxford HKCE: Level Ia = SR dari RCT, Level Ib = Individual RCT berkualitas tinggi, Level IIa = SR dari cohort study, Level IIb = Individual cohort study atau RCT berkualitas rendah, Level III = Case-control, Level IV = Case series.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M32",
+    "question": "Apa yang dimaksud dengan kode etik penelitian Nuremberg Code, dan apa yang melatar belakangi pembuatannya?",
+    "options": [
+      "Panduan etik untuk penelitian pada hewan coba yang dibuat WHO tahun 1964",
+      "Kode etik yang lahir akibat pelanggaran etik oleh dokter Nazi dalam eksperimen pada tawanan perang, yang menekankan informed consent sukarela",
+      "Deklarasi yang dibuat oleh WMA tahun 1964 sebagai standar etik penelitian biomedis",
+      "Panduan CIOMS tahun 2016 untuk penelitian pada kelompok rentan",
+      "Kode etik yang melarang penggunaan hewan coba dalam penelitian"
+    ],
+    "correct": 1,
+    "explanation": "Nuremberg Code (1947) lahir dari pengadilan dokter Nazi setelah Perang Dunia II. Poin utamanya adalah keharusan informed consent sukarela dari subjek penelitian, yang menjadi fondasi etik penelitian modern.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M33",
+    "question": "Teknik membaca yang dilakukan secara cermat dan mendetail untuk memahami isi secara mendalam dan mencari ide pokok disebut...",
+    "options": [
+      "Scanning",
+      "Skimming",
+      "Intensive reading (reading for understanding)",
+      "Skipping",
+      "Extensive reading"
+    ],
+    "correct": 2,
+    "explanation": "Intensive reading atau reading for understanding dilakukan dengan membaca seluruh teks secara detail dan cermat untuk memahami isi, mencari ide pokok, dan menangkap nuansa makna. Berbeda dengan skimming (sepintas) dan scanning (mencari informasi spesifik).",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M34",
+    "question": "Peneliti ingin menulis tinjauan pustaka yang benar secara logika dan penalaran, dengan argumen yang tersusun sesuai urutan yang masuk akal. Prinsip penulisan apa yang diterapkan?",
+    "options": [
+      "Jelas",
+      "Konsisten",
+      "Logis",
+      "Koheren",
+      "Detail"
+    ],
+    "correct": 2,
+    "explanation": "Logis berarti penulisan mengikuti kaidah penalaran yang benar, argumen tersusun dari premis ke kesimpulan secara masuk akal. Berbeda dengan 'koheren' yang lebih pada keterpaduan alur teks.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M35",
+    "question": "Peneliti ingin membuat penelitian tentang pengalaman individu yang mengalami PTSD pasca-bencana perang. Desain penelitian kualitatif apa yang paling sesuai?",
+    "options": [
+      "Fenomenologi",
+      "Grounded theory",
+      "Etnografi",
+      "Action research",
+      "Case study"
+    ],
+    "correct": 0,
+    "explanation": "Fenomenologi cocok untuk mengeksplorasi pengalaman subjektif (lived experience) individu terhadap suatu fenomena tertentu — dalam hal ini, pengalaman PTSD yang sangat personal dan subjektif.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M36",
+    "question": "Jika dilakukan penelitian untuk menilai hubungan pemberian jamu (jahe) terhadap penurunan mual-muntah pada ibu hamil, manakah yang merupakan variabel bebas?",
+    "options": [
+      "Jahe",
+      "Paritas ibu",
+      "Usia kehamilan",
+      "Ibu hamil",
+      "Frekuensi mual-muntah"
+    ],
+    "correct": 0,
+    "explanation": "Variabel bebas adalah yang diberikan/dimanipulasi peneliti. Dalam penelitian ini, jahe (dalam bentuk jamu) adalah intervensi yang diberikan, sehingga merupakan variabel bebas. Frekuensi mual-muntah adalah variabel tergantung.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M37",
+    "question": "Seorang peneliti ingin meneliti hubungan antara paparan pestisida dengan kejadian kanker paru. Ia mengumpulkan data dari catatan medis pasien kanker paru yang sudah ada, kemudian menelusuri riwayat paparan pestisida mereka ke belakang. Desain penelitian apa yang digunakan?",
+    "options": [
+      "Cohort prospektif",
+      "Cohort retrospektif",
+      "Case-control",
+      "Cross-sectional",
+      "Randomized controlled trial"
+    ],
+    "correct": 2,
+    "explanation": "Case-control: dimulai dari outcome (kasus kanker paru), kemudian ditelusuri ke belakang (retrospektif) untuk mencari paparan (pestisida). Berbeda dengan cohort retrospektif yang dimulai dari paparan lalu ke outcome.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M38",
+    "question": "Randomisasi dalam penelitian eksperimental terutama bertujuan untuk mencegah bias jenis apa?",
+    "options": [
+      "Recall bias",
+      "Selection bias",
+      "Interviewer bias",
+      "Reporting bias",
+      "Follow-up bias"
+    ],
+    "correct": 1,
+    "explanation": "Randomisasi terutama mencegah selection bias dengan memastikan distribusi faktor perancu yang diketahui maupun tidak diketahui merata antara kelompok intervensi dan kontrol.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M39",
+    "question": "Sebuah konferensi tahun 2016 menghasilkan panduan bioetik yang menjadi acuan untuk penelitian yang melibatkan kelompok rentan, yang mengutamakan pertanyaan 'bagaimana' dan 'mengapa' keputusan etik dibuat. Apakah hasil konferensi yang dimaksud?",
+    "options": [
+      "WHO Guidelines 2016",
+      "CIOMS 2016",
+      "Declaration of Helsinki 2013",
+      "Belmont Report",
+      "NCBI Bioethics Framework"
+    ],
+    "correct": 1,
+    "explanation": "CIOMS (Council for International Organizations of Medical Sciences) mengeluarkan International Ethical Guidelines for Health-Related Research Involving Humans edisi 2016, yang menjadi acuan untuk penelitian pada kelompok rentan.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M40",
+    "question": "Pendekatan pertama yang harus dilakukan peneliti sebelum memulai wawancara mendalam (in-depth interview) dengan informan adalah...",
+    "options": [
+      "Langsung mengajukan pertanyaan penelitian utama",
+      "Membina hubungan baik dan rapport dengan informan",
+      "Meminta informed consent secara formal",
+      "Menentukan teknik analisis data terlebih dahulu",
+      "Merekam percakapan secara diam-diam"
+    ],
+    "correct": 1,
+    "explanation": "Dalam wawancara kualitatif, membangun rapport (membina hubungan baik dan kepercayaan) dengan informan adalah langkah pertama yang krusial agar informan bersedia berbagi pengalaman secara terbuka dan mendalam.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M41",
+    "question": "Mengapa ukuran dan spesies hewan coba mempengaruhi hasil penelitian farmakologi?",
+    "options": [
+      "Karena semua hewan memiliki habitat yang sama dengan manusia",
+      "Karena perbedaan absorpsi, distribusi, metabolisme, dan ekskresi (ADME) obat berbeda antar spesies dan ukuran",
+      "Karena kebiasaan makan hewan coba selalu berbeda dengan manusia",
+      "Karena tempat tinggal hewan mempengaruhi kadar obat",
+      "Karena hewan yang lebih besar selalu lebih sensitif terhadap obat"
+    ],
+    "correct": 1,
+    "explanation": "Perbedaan ukuran (metabolic rate) dan spesies mengakibatkan perbedaan farmakokinetik (ADME), sehingga dosis efektif pada satu spesies tidak dapat langsung diterapkan pada spesies lain atau manusia tanpa penyesuaian.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M42",
+    "question": "Penggunaan skala Likert lebih disukai dibandingkan pertanyaan ya/tidak untuk mengukur tingkat stres karena...",
+    "options": [
+      "Lebih mudah dianalisis secara statistik",
+      "Menghindari bias pewawancara",
+      "Tidak memerlukan validasi instrumen",
+      "Menghasilkan data ordinal yang lebih informatif dan menangkap gradasi respons",
+      "Lebih cepat dijawab oleh responden"
+    ],
+    "correct": 3,
+    "explanation": "Skala Likert menghasilkan data ordinal yang menangkap gradasi intensitas (misalnya: sangat tidak stres hingga sangat stres), memberikan informasi lebih kaya dibandingkan jawaban dikotomis ya/tidak.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M43",
+    "question": "Penulisan hipotesis dalam sistematika skripsi FK UKDW terdapat pada bab berapa?",
+    "options": [
+      "Bab 1 (Pendahuluan)",
+      "Bab 2 (Tinjauan Pustaka)",
+      "Bab 3 (Metode Penelitian)",
+      "Bab 4 (Hasil)",
+      "Bab 5 (Pembahasan)"
+    ],
+    "correct": 0,
+    "explanation": "Dalam sistematika proposal/skripsi FK UKDW, hipotesis penelitian termasuk bagian dari Bab 1 (Pendahuluan), bersama rumusan masalah, tujuan, dan manfaat penelitian.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M44",
+    "question": "Manakah yang merupakan perbedaan utama antara penelitian observasional dan penelitian intervensional?",
+    "options": [
+      "Penelitian observasional selalu menggunakan data kualitatif, intervensional selalu kuantitatif",
+      "Observasional: peneliti mengamati dan mengumpulkan data tanpa mengubah kondisi subjek; intervensional: peneliti memberikan perlakuan/manipulasi pada subjek",
+      "Penelitian observasional selalu prospektif, intervensional selalu retrospektif",
+      "Observasional membutuhkan kelompok kontrol, intervensional tidak",
+      "Penelitian intervensional tidak memerlukan ethical clearance"
+    ],
+    "correct": 1,
+    "explanation": "Perbedaan fundamental: penelitian observasional tidak ada manipulasi/intervensi oleh peneliti (hanya mengamati apa yang terjadi secara alami), sedangkan intervensional melibatkan pemberian perlakuan/intervensi aktif oleh peneliti.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M45",
+    "question": "Tujuan utama dari Evidence-Based Medicine (EBM) dalam praktik kedokteran adalah...",
+    "options": [
+      "Menggantikan pengalaman klinis dokter sepenuhnya dengan data statistik",
+      "Membantu dokter membuat keputusan klinis yang menggabungkan bukti ilmiah terbaik, keahlian klinis, dan preferensi pasien",
+      "Meningkatkan pendapatan rumah sakit melalui efisiensi pengobatan",
+      "Mewajibkan semua dokter mengikuti protokol yang sama untuk setiap pasien",
+      "Mengutamakan kepuasan pasien di atas bukti ilmiah"
+    ],
+    "correct": 1,
+    "explanation": "EBM bertujuan membantu dokter membuat keputusan klinis terbaik dengan mengintegrasikan tiga elemen: (1) bukti penelitian terbaik yang tersedia, (2) keahlian klinis dokter, dan (3) nilai/preferensi pasien.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M46",
+    "question": "Pernyataan yang benar tentang tingkat kepercayaan (confidence level) dalam penelitian adalah...",
+    "options": [
+      "Tingkat kepercayaan 95% berarti ada 95% kemungkinan hipotesis nol benar",
+      "Confidence interval yang lebih sempit menunjukkan estimasi yang kurang presisi",
+      "Tingkat kepercayaan 95% berarti jika penelitian diulang 100 kali, 95 interval akan mencakup nilai parameter populasi sebenarnya",
+      "Semakin besar sampel, semakin lebar confidence interval-nya",
+      "Tingkat kepercayaan selalu harus 95% dalam semua penelitian medis"
+    ],
+    "correct": 2,
+    "explanation": "Interpretasi CI 95% yang benar: jika penelitian diulang berkali-kali dengan sampel berbeda, 95% dari interval yang dihasilkan akan mencakup nilai parameter populasi sebenarnya. Bukan berarti ada 95% kemungkinan nilai benar ada dalam satu interval spesifik.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M47",
+    "question": "Pembersihan kandang hewan coba secara rutin dalam penelitian laboratorium termasuk dalam aspek apa dari pengelolaan hewan coba?",
+    "options": [
+      "Pemilihan spesies hewan",
+      "Penentuan dosis obat",
+      "Animal welfare dan pencegahan penyakit pada hewan coba",
+      "Teknik anestesi",
+      "Prosedur eutanasia"
+    ],
+    "correct": 2,
+    "explanation": "Pembersihan kandang secara rutin adalah bagian dari animal welfare (kesejahteraan hewan coba) dan pencegahan penyakit, yang merupakan syarat penelitian yang etis dan valid agar kondisi hewan tidak mempengaruhi hasil penelitian.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "M48",
+    "question": "Tujuan utama dari penelitian observasional analitik adalah...",
+    "options": [
+      "Hanya mendeskripsikan distribusi penyakit dalam populasi",
+      "Menguji hubungan sebab-akibat melalui intervensi aktif",
+      "Menganalisis hubungan atau asosiasi antara faktor risiko (paparan) dengan outcome",
+      "Mengembangkan instrumen pengukuran baru",
+      "Menghitung prevalensi penyakit di suatu wilayah"
+    ],
+    "correct": 2,
+    "explanation": "Penelitian observasional analitik (kohort, case-control, cross-sectional analitik) bertujuan menganalisis hubungan/asosiasi antara paparan (faktor risiko) dengan outcome, meski tidak dapat membuktikan kausalitas sekuat penelitian eksperimental.",
+    "category": "soal 22 + 23",
+    "img": null
+  },
+  {
+    "id": "MM1",
+    "question": "Seorang peneliti ingin meneliti hubungan antara diabetes mellitus dengan sindroma koroner akut. Manakah dari pilihan berikut ini yang paling mungkin dijadikan variabel perancu?",
+    "options": [
+      "Jenis kelamin",
+      "Komplikasi neuropati diabetik",
+      "Kadar gula darah puasa",
+      "Kadar Troponin (penanda sindroma koroner akut)",
+      "Status merokok"
+    ],
+    "correct": 0,
+    "explanation": "Variabel perancu adalah variabel yang berhubungan dengan variabel bebas (DM) sekaligus dengan variabel terikat (SKA), namun bukan merupakan variabel antara. Jenis kelamin berhubungan dengan risiko DM maupun dengan risiko SKA, sehingga merupakan variabel perancu. Status merokok juga bisa, namun jenis kelamin lebih klasik sebagai perancu. Kadar gula darah puasa adalah bagian dari DM itu sendiri, dan Troponin adalah outcome.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM2",
+    "question": "Pemberian informed consent kepada subjek penelitian merupakan bagian dari prinsip etika penelitian yaitu...",
+    "options": [
+      "Etnologi",
+      "Respect for persons",
+      "Beneficence",
+      "Justice",
+      "Maleficence"
+    ],
+    "correct": 1,
+    "explanation": "Informed consent adalah wujud penghormatan terhadap otonomi individu, yang merupakan inti dari prinsip 'Respect for persons' dalam etika penelitian Belmont Report. Prinsip ini memastikan subjek memahami dan secara sukarela setuju untuk berpartisipasi.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM3",
+    "question": "Apabila suatu literature review memuat langkah-langkah detail pencarian artikel yang diulas, literatur review tersebut sangat mungkin berupa apa?",
+    "options": [
+      "Conceptual review",
+      "State of the art review",
+      "Expert review",
+      "Scoping review",
+      "Systematic review"
+    ],
+    "correct": 4,
+    "explanation": "Systematic review memuat protokol pencarian yang terstruktur dan transparan, termasuk langkah-langkah detail pencarian artikel (database yang digunakan, kata kunci, kriteria inklusi/eksklusi). Hal ini membedakannya dari narrative atau conceptual review.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM4",
+    "question": "Pada penelitian Action Research, peneliti memiliki aktivitas yang terbagi menjadi...",
+    "options": [
+      "Perencanaan, Tindakan, Observasi, Refleksi",
+      "Perencanaan, Tindakan, Observasi, Diseminasi",
+      "Perencanaan, Tindakan, Implementasi, Observasi",
+      "Perencanaan, Stimulasi, Pencarian, Observasi",
+      "Perencanaan, Intervensi, Observasi, Kolaborasi"
+    ],
+    "correct": 0,
+    "explanation": "Siklus Action Research terdiri dari empat tahap: Plan (Perencanaan) → Act (Tindakan) → Observe (Observasi) → Reflect (Refleksi). Siklus ini diulang terus hingga masalah terpecahkan.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM5",
+    "question": "Peneliti melakukan review literature dan menemukan artikel penelitian yang merupakan pemikiran ahli terhadap suatu topik. Jenis artikel tersebut termasuk sebagai...",
+    "options": [
+      "Basic science",
+      "Editorials",
+      "Clinical reviews",
+      "Meta analysis",
+      "Clinical research"
+    ],
+    "correct": 1,
+    "explanation": "Editorials adalah artikel berupa opini atau pemikiran para ahli (editorial board atau pakar undangan) terhadap suatu isu atau topik tertentu, tanpa mengumpulkan data primer baru. Berbeda dengan clinical review yang mengulas bukti secara sistematis.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM6",
+    "question": "Penelitian dengan tujuan membandingkan tingkat kebugaran kelompok lansia yang mendapat intervensi senam dan kelompok lansia kontrol membutuhkan uji statistik yaitu...",
+    "options": [
+      "Uji hipotesis beda rerata antara 2 kelompok berpasangan (paired), yaitu two-sample paired t-test bila data terdistribusi normal",
+      "Uji hipotesis beda rerata antar 2 kelompok, yaitu ANOVA bila data terdistribusi normal",
+      "Uji hipotesis beda rerata antara >2 kelompok independen, yaitu Wilcoxon rank sum test bila data terdistribusi normal",
+      "Uji hipotesis beda rerata antara 2 kelompok independen, yaitu independent t-test bila data terdistribusi normal",
+      "Uji hipotesis beda rerata antar >2 kelompok, yaitu ANOVA bila data terdistribusi normal"
+    ],
+    "correct": 3,
+    "explanation": "Membandingkan 2 kelompok yang berbeda (independen: kelompok senam vs. kontrol) dengan data numerik berdistribusi normal → independent samples t-test. ANOVA untuk >2 kelompok, paired t-test untuk kelompok yang sama diukur dua kali.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM7",
+    "question": "Dalam suatu uji klinik randomisasi, kelompok pengobatan baru biasanya dibandingkan dengan kelompok kontrol. Berikut adalah kelompok yang dapat dipakai sebagai kelompok kontrol, kecuali...",
+    "options": [
+      "Plasebo",
+      "Tanpa pengobatan sama sekali",
+      "Obat lain yang juga sama-sama baru (belum terbukti)",
+      "Obat standar (standard of care)",
+      "Obat sejenis dengan dosis yang berbeda"
+    ],
+    "correct": 2,
+    "explanation": "Kelompok kontrol yang valid dalam RCT adalah: plasebo, tanpa pengobatan, obat standar, atau dosis berbeda dari obat yang sama. Menggunakan obat lain yang juga belum terbukti ('sama-sama baru') tidak tepat sebagai kontrol karena tidak ada standar pembanding yang valid.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM8",
+    "question": "Hal berikut ini perlu ditekankan ketika melaksanakan pengambilan data dengan cara in-depth interview...",
+    "options": [
+      "Pentingnya peran fasilitator",
+      "Percakapan direkam dan ditranskripsikan",
+      "Mempertahankan dinamika kelompok",
+      "Peneliti mengamati tanpa terlibat",
+      "Mengajukan pertanyaan yang menyelidik (probing questions)"
+    ],
+    "correct": 4,
+    "explanation": "Dalam in-depth interview, kunci utamanya adalah mengajukan probing questions (pertanyaan menyelidik) untuk menggali informasi lebih dalam dari jawaban informan. Dinamika kelompok adalah untuk FGD, bukan in-depth interview individual.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM9",
+    "question": "Berdasarkan piramida derajat kepercayaan bukti ilmiah berdasarkan desain penelitian, manakah yang memiliki tingkat paling rendah?",
+    "options": [
+      "Studi kohort",
+      "Studi kasus (case report/case series)",
+      "Randomized controlled clinical trial",
+      "Systematic review",
+      "Case-control"
+    ],
+    "correct": 1,
+    "explanation": "Pada piramida bukti (evidence pyramid), studi kasus/case series berada di tingkat paling rendah karena tidak ada kelompok pembanding dan rentan bias. Urutan dari bawah ke atas: case report → case-control → kohort → RCT → systematic review/meta-analysis.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM10",
+    "question": "Penelitian dengan desain potong lintang (cross-sectional) adalah...",
+    "options": [
+      "Penelitian yang melibatkan observasi berulang terhadap variabel yang sama dalam jangka waktu tertentu",
+      "Penelitian observasional yang mengamati data populasi atau sampel satu kali saja pada saat yang sama",
+      "Penelitian yang membandingkan antara kelompok kasus dan kelompok kontrol berdasarkan status paparannya",
+      "Penelitian terhadap peristiwa yang telah terjadi untuk mencari faktor yang berhubungan dengan penyebab",
+      "Semua jawaban salah"
+    ],
+    "correct": 1,
+    "explanation": "Cross-sectional (potong lintang): penelitian observasional di mana paparan dan outcome diukur secara bersamaan (satu titik waktu) pada sampel yang sama. Mudah dan murah namun tidak bisa membuktikan temporalitas/kausalitas.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM11",
+    "question": "Contoh hipotesis null (H0) yang benar adalah...",
+    "options": [
+      "Obat dalam sediaan sirup menyebabkan gagal ginjal akut pada anak",
+      "Ada hubungan antara pendidikan ibu dengan berat badan bayi lahir",
+      "Ada perbedaan signifikan berat badan bayi lahir antara Kabupaten Sleman dan Kabupaten Kulonprogo",
+      "Senam diabetes membantu mengendalikan gula darah",
+      "Tidak ada hubungan antara konsumsi santan dengan kadar kolesterol darah"
+    ],
+    "correct": 4,
+    "explanation": "Hipotesis null (H0) selalu menyatakan 'tidak ada perbedaan/hubungan' antara variabel yang diteliti. Pilihan E ('Tidak ada hubungan antara konsumsi santan dengan kadar kolesterol') adalah satu-satunya H0 yang benar.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM12",
+    "question": "Manakah dari pilihan berikut ini yang TIDAK perlu dipertimbangkan dalam memilih desain penelitian observasional yang sesuai?",
+    "options": [
+      "Biaya penelitian",
+      "Waktu pengerjaan",
+      "Jumlah paparan yang diteliti",
+      "Adanya intervensi pada subjek",
+      "Prevalensi atau insidensi outcome"
+    ],
+    "correct": 3,
+    "explanation": "Penelitian observasional, secara definisi, TIDAK melibatkan intervensi pada subjek. Oleh karena itu, 'adanya intervensi' bukan faktor yang relevan dalam memilih desain observasional. Faktor yang relevan antara lain: biaya, waktu, jumlah paparan, prevalensi outcome, dan lain-lain.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM13",
+    "question": "Berikut ini merupakan data statistik yang digunakan untuk mengetahui performa suatu alat diagnostik dalam mendiagnosis suatu penyakit...",
+    "options": [
+      "Risiko relatif (relative risk)",
+      "Odds ratio",
+      "Likelihood ratio",
+      "Prevalensi",
+      "Insidensi"
+    ],
+    "correct": 2,
+    "explanation": "Likelihood ratio (LR) adalah statistik yang spesifik untuk mengevaluasi performa alat diagnostik: LR+ menunjukkan seberapa besar kemungkinan tes positif pada orang sakit, LR- seberapa kecil kemungkinan tes negatif pada orang sakit. RR dan OR lebih untuk penelitian etiologi/risiko.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM14",
+    "question": "Teknik analisis data kualitatif yang menggunakan kerangka atau teori yang sudah ada sebelumnya sebagai panduan untuk mengidentifikasi tema dalam data disebut...",
+    "options": [
+      "Open coding induktif",
+      "Reflexivity",
+      "Triangulation",
+      "Analisis Tematik Deduktif",
+      "Etnografi"
+    ],
+    "correct": 3,
+    "explanation": "Analisis Tematik Deduktif menggunakan kerangka teori atau kategori yang sudah ada sebelumnya (top-down) sebagai panduan dalam mengkodekan dan mengidentifikasi tema dari data. Berbeda dengan analisis induktif (bottom-up/open coding) yang membiarkan tema muncul dari data.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM15",
+    "question": "Sebuah instrumen kuesioner harus dapat dipergunakan berulang kali pada berbagai variasi sampel dan menghasilkan pola jawaban yang konsisten. Manakah dari pilihan berikut ini yang TIDAK termasuk jenis reliabilitas yang harus diperhatikan oleh peneliti?",
+    "options": [
+      "Inter-observer reliability",
+      "Time-related reliability",
+      "Internal consistency",
+      "Parallel form correlation",
+      "Criterion reliability"
+    ],
+    "correct": 4,
+    "explanation": "Criterion reliability (validitas kriteria) sebenarnya adalah konsep validitas, bukan reliabilitas. Jenis-jenis reliabilitas yang valid: inter-observer (antar pengamat), test-retest/time-related (antar waktu), internal consistency (konsistensi antar item), dan parallel form (bentuk paralel).",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM16",
+    "question": "Fakta yang sudah diketahui atau permasalahan yang terjadi biasanya dituliskan pada bagian mana dari proposal penelitian?",
+    "options": [
+      "Latar belakang",
+      "Tinjauan pustaka",
+      "Metode penelitian",
+      "Hipotesis",
+      "Tujuan"
+    ],
+    "correct": 0,
+    "explanation": "Latar belakang adalah bagian proposal yang mengemukakan fakta-fakta yang sudah diketahui (what is known), kesenjangan pengetahuan (knowledge gap), dan permasalahan yang terjadi sebagai dasar perlunya penelitian dilakukan.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM17",
+    "question": "Di sebuah daerah layanan puskesmas terdapat tradisi mencuci mata merah dan pedih dengan ramuan air sirih dan garam. Seorang dokter puskesmas ingin mengeksplorasi pengalaman masyarakat sekitar tentang pengobatan tradisional tersebut. Desain penelitian kualitatif apakah yang paling sesuai?",
+    "options": [
+      "Case study",
+      "Ethnography",
+      "Grounded theory",
+      "Phenomenology",
+      "Participatory research"
+    ],
+    "correct": 1,
+    "explanation": "Etnografi paling sesuai untuk mengeksplorasi praktik budaya dan pengalaman masyarakat dalam konteks sosial-budaya mereka, termasuk pengobatan tradisional yang berakar pada kepercayaan komunitas.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM18",
+    "question": "Seorang dokter psikiatri meneliti hubungan antara status ekonomi saat masuk kuliah dengan tingkat depresi mahasiswa teknik. Para responden kesulitan mengingat pendapatan orang tua mereka saat masuk kuliah dahulu. Ketidaktepatan data yang diberikan responden ini disebut sebagai...",
+    "options": [
+      "Follow-up bias",
+      "Interviewer bias",
+      "Reporting bias",
+      "Publication bias",
+      "Recall bias"
+    ],
+    "correct": 4,
+    "explanation": "Recall bias terjadi ketika responden tidak dapat mengingat dengan akurat informasi dari masa lalu, sehingga data yang diberikan tidak tepat. Hal ini sering terjadi pada penelitian retrospektif yang mengandalkan memori responden.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM19",
+    "question": "Perhatikan judul penelitian: 'Efektivitas ekstrak buah pala untuk meningkatkan kualitas tidur lansia.' Kriteria inklusinya: (1) Lansia, (2) Mengalami insomnia, (3) Tidak alergi buah pala, (4) Bersedia mengikuti penelitian. Manakah yang dapat dijadikan kriteria eksklusi?",
+    "options": [
+      "Laki-laki",
+      "Tidak mengalami insomnia",
+      "Alergi buah pala",
+      "Berusia kurang dari 50 tahun",
+      "Tidak bersedia mengikuti penelitian"
+    ],
+    "correct": 0,
+    "explanation": "Kriteria eksklusi adalah kondisi yang tidak tercakup dalam inklusi dan perlu dikeluarkan karena dapat mengaburkan hasil. 'Laki-laki' bisa menjadi kriteria eksklusi jika peneliti ingin membatasi pada perempuan. Pilihan B dan C sudah tercakup sebagai kebalikan inklusi (2 dan 3). Pilihan D dan E juga sudah kebalikan inklusi (1 dan 4).",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM20",
+    "question": "Seorang dokter spesialis saraf ingin melakukan penelitian apakah ada perbedaan rata-rata usia antara pasien stroke hemoragik dan stroke non-hemoragik, dengan diketahui usia pasien terdistribusi normal. Maka analisis statistik yang sesuai adalah...",
+    "options": [
+      "Independent t-test",
+      "Paired t-test",
+      "Wilcoxon signed rank test",
+      "Mann-Whitney test",
+      "McNemar test"
+    ],
+    "correct": 0,
+    "explanation": "Membandingkan rata-rata variabel numerik (usia) antara 2 kelompok independen (stroke hemoragik vs. non-hemoragik) dengan data berdistribusi normal → Independent samples t-test. Paired t-test untuk data berpasangan, Mann-Whitney untuk data tidak normal.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM21",
+    "question": "Jumlah orang yang tidak sakit namun memperoleh hasil tes positif disebut sebagai...",
+    "options": [
+      "False positive",
+      "False negative",
+      "Likelihood ratio positive",
+      "Specificity",
+      "True negative"
+    ],
+    "correct": 0,
+    "explanation": "False positive (FP): individu yang TIDAK sakit (disease absent) tetapi hasil tesnya POSITIF. Ini mengurangi spesifisitas alat diagnostik. Kebalikannya adalah true negative (TN: tidak sakit, tes negatif).",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM22",
+    "question": "Desain penelitian eksperimental di mana cara mengalokasikan subjek penelitian TIDAK dengan randomisasi, sehingga tidak mampu mengontrol semua faktor perancu disebut...",
+    "options": [
+      "Randomized controlled trial",
+      "Randomized factorial design",
+      "Randomized block experiment design",
+      "Quasi experiment",
+      "Completely randomized experiment design"
+    ],
+    "correct": 3,
+    "explanation": "Quasi experiment (eksperimen semu) adalah desain eksperimental tanpa randomisasi dalam alokasi subjek, sehingga tidak dapat mengontrol semua faktor perancu seperti pada RCT. Umumnya digunakan ketika randomisasi tidak mungkin dilakukan secara etis atau praktis.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM23",
+    "question": "Penelitian kuasi-eksperimental 1 kelompok yang hanya ada data setelah perlakuan (tanpa data sebelum perlakuan dan tanpa kelompok kontrol) disebut...",
+    "options": [
+      "One group pre-test and post-test design",
+      "Non-equivalent post-test only design",
+      "Post-test only design",
+      "Time series pre and post test",
+      "Factorial design"
+    ],
+    "correct": 2,
+    "explanation": "Post-test only design: hanya satu kelompok, hanya ada pengukuran setelah intervensi (tidak ada pre-test, tidak ada kelompok kontrol). Merupakan desain kuasi-eksperimental paling lemah.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM24",
+    "question": "Di suatu Puskesmas, terdapat peningkatan kasus penyakit menular seksual pada kelompok remaja usia 17–25 tahun. Peneliti menduga salah satu faktornya adalah kurangnya pengetahuan mengenai proteksi dan keterbatasan akses layanan kesehatan seksual. Salah satu hambatan pelaksanaan penelitian survei pada populasi ini adalah...",
+    "options": [
+      "Group-administered survey",
+      "Face-to-face interviews",
+      "Mail surveys",
+      "Email/web surveys",
+      "Telephone surveys"
+    ],
+    "correct": 3,
+    "explanation": "Email/web surveys paling tepat karena topik sensitif (perilaku seksual remaja) lebih mudah dijawab secara anonim/online, mengurangi social desirability bias. Face-to-face dan telephone surveys dapat membuat responden tidak nyaman menjawab pertanyaan sensitif secara jujur.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM25",
+    "question": "Penelitian survei seringkali memerlukan jumlah sampel yang tidak sedikit. Manakah dari pilihan berikut ini yang merupakan metode sampling probabilistik yang dapat dipergunakan?",
+    "options": [
+      "Cluster random sampling",
+      "Snowball sampling",
+      "Quota random sampling",
+      "Random intercept sampling",
+      "Panel sampling"
+    ],
+    "correct": 0,
+    "explanation": "Cluster random sampling adalah metode probabilistik di mana populasi dibagi dalam kelompok (cluster), kemudian cluster dipilih secara acak. Snowball dan quota sampling adalah non-probabilistik. Random intercept dan panel sampling bukan termasuk metode sampling standar.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM26",
+    "question": "Berikut ini yang TIDAK termasuk sebagai jenis penelitian observasional adalah...",
+    "options": [
+      "Randomised controlled trial",
+      "Case-control",
+      "Cohort studies",
+      "Cross-sectional",
+      "Case report"
+    ],
+    "correct": 0,
+    "explanation": "Randomised controlled trial (RCT) adalah penelitian INTERVENSIONAL (eksperimental), bukan observasional. Penelitian observasional tidak melibatkan intervensi: case-control, cohort, cross-sectional, dan case report semuanya observasional.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM27",
+    "question": "Seorang peneliti ingin melakukan penelitian kualitatif untuk mengevaluasi kurikulum 2019 di FK UKDW. Peneliti bertujuan mengumpulkan pendapat dari berbagai tingkatan mahasiswa secara representatif. Metode pengumpulan data yang paling cocok adalah...",
+    "options": [
+      "Focus Group Discussion (FGD)",
+      "In-depth interview",
+      "Questionnaire",
+      "Direct observation",
+      "Field notes"
+    ],
+    "correct": 0,
+    "explanation": "FGD cocok untuk mengumpulkan pendapat yang beragam dari kelompok yang representatif sekaligus dalam satu sesi. FGD memungkinkan interaksi antar peserta dari berbagai tingkatan yang dapat menghasilkan data lebih kaya dibanding wawancara individual.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM28",
+    "question": "Berikut ini yang menjadi kekurangan atau keterbatasan penelitian kualitatif adalah...",
+    "options": [
+      "Hasil penelitian kualitatif dapat direplikasi dengan mudah",
+      "Hasil penelitian memberikan jawaban langsung dan terukur",
+      "Hasil penelitian yang 'kurang baik' tidak dapat disembunyikan",
+      "Penelitian dapat bersifat subjektif",
+      "Hasil penelitian tidak selalu dapat dilokalisir"
+    ],
+    "correct": 3,
+    "explanation": "Keterbatasan utama penelitian kualitatif adalah potensi subjektivitas — interpretasi data sangat dipengaruhi oleh perspektif peneliti, sehingga dua peneliti yang menganalisis data yang sama bisa menghasilkan kesimpulan berbeda.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM29",
+    "question": "Perhatikan pertanyaan penelitian berikut: 'Apakah pemberian sayur daun bayam meningkatkan produksi ASI ibu pasca bersalin lebih banyak daripada sayur daun katuk?' Manakah komponen Intervention dalam kerangka PICO?",
+    "options": [
+      "Pemberian sayur daun katuk",
+      "Meningkatkan produksi ASI",
+      "Ibu pasca bersalin",
+      "Pemberian sayur daun bayam",
+      "ASI ibu pasca bersalin"
+    ],
+    "correct": 3,
+    "explanation": "Dalam PICO: P=ibu pasca bersalin, I=pemberian sayur daun bayam (intervensi yang sedang diuji), C=pemberian sayur daun katuk (komparator), O=produksi ASI. Komponen Intervention adalah perlakuan yang sedang dievaluasi.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM30",
+    "question": "dr. Nico melakukan uji klinik untuk mengukur efektivitas terapi tambahan magnesium untuk mengurangi keram malam hari (nocturnal leg cramps) pada perempuan penderita diabetes berusia di atas 60 tahun. Bertindak sebagai variabel bebas adalah...",
+    "options": [
+      "Keram malam hari",
+      "Magnesium",
+      "Umur",
+      "Jenis kelamin",
+      "Diabetes"
+    ],
+    "correct": 1,
+    "explanation": "Variabel bebas (independent variable) adalah variabel yang dimanipulasi/diberikan oleh peneliti. Dalam penelitian ini, magnesium adalah intervensi yang diberikan (variabel bebas). Keram malam hari adalah outcome (variabel terikat). Umur, jenis kelamin, dan diabetes adalah karakteristik subjek penelitian.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM31",
+    "question": "Teknik sampling yang tepat untuk dilakukan pada penelitian kualitatif adalah...",
+    "options": [
+      "Probability sampling",
+      "Total sampling",
+      "Purposive sampling",
+      "Coverage sampling",
+      "Inclusive sampling"
+    ],
+    "correct": 2,
+    "explanation": "Purposive sampling (sampling bertujuan) adalah teknik non-probabilistik yang memilih informan berdasarkan kriteria tertentu yang relevan dengan tujuan penelitian. Ini paling cocok untuk penelitian kualitatif karena mengutamakan kedalaman informasi, bukan representativitas statistik.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM32",
+    "question": "Pernyataan yang benar tentang level of significance (nilai p) adalah...",
+    "options": [
+      "Batas nilai p disepakati selalu pada 0,05 untuk semua penelitian",
+      "Batas nilai p sama untuk semua penelitian, berapapun jumlah uji hipotesis yang dilakukan",
+      "Batas nilai p yang disepakati digunakan untuk menentukan penerimaan atau penolakan hipotesis nol",
+      "Koreksi Bonferroni dilakukan bila penelitian mempunyai uji hipotesis lebih dari sepuluh",
+      "Nilai p=0,2 berarti ada 80% kemungkinan hipotesis nol terjadi"
+    ],
+    "correct": 2,
+    "explanation": "Level of significance (α) adalah batas nilai p yang disepakati sebelum penelitian dimulai untuk menentukan apakah H0 ditolak atau diterima. Nilai α tidak harus 0,05 (bisa 0,01 atau 0,1 tergantung konteks). Koreksi Bonferroni diperlukan untuk multiple comparisons (biasanya >2 perbandingan, bukan >10).",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM33",
+    "question": "Sebuah jurnal menyebutkan bahwa alat uji imunokromatografik (ICT) untuk malaria di daerah endemik memiliki sensitivitas 95%. Hal ini bermakna...",
+    "options": [
+      "Jumlah orang sakit malaria pada area tersebut adalah 95%",
+      "Terdapat 95% orang sakit malaria yang memperoleh hasil positif dengan ICT",
+      "Terdapat 5% orang sakit malaria yang memperoleh hasil positif dengan ICT",
+      "Terdapat probabilitas 95% untuk orang yang mendapatkan hasil positif ICT benar sakit malaria",
+      "Sebesar 95% orang yang hasil ICT negatif yang benar-benar tidak sakit"
+    ],
+    "correct": 1,
+    "explanation": "Sensitivitas = kemampuan tes mendeteksi orang yang SAKIT. Sensitivitas 95% berarti 95% dari orang yang benar-benar sakit malaria akan mendapatkan hasil tes POSITIF (true positive rate). Pilihan D adalah nilai prediktif positif, pilihan E adalah spesifisitas.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM34",
+    "question": "Penelitian survei lazim dipergunakan dalam konteks kesehatan masyarakat dan manajemen kesehatan. Dari pilihan di bawah ini, manakah pertanyaan penelitian yang TIDAK sesuai untuk diteliti dengan metode survei?",
+    "options": [
+      "Persepsi orangtua mengenai vaksinasi pada anak",
+      "Evaluasi kepuasan pelayanan kesehatan di sebuah puskesmas",
+      "Kualitas hidup lansia dengan demensia di sebuah provinsi",
+      "Efektivitas program tanaman obat dalam menurunkan unnecessary clinic visit",
+      "Hubungan antara status sosioekonomi dengan jumlah kunjungan antenatal care"
+    ],
+    "correct": 3,
+    "explanation": "Efektivitas program (mengukur perubahan akibat intervensi) lebih tepat diteliti dengan desain eksperimental atau quasi-eksperimental, bukan survei. Survei cocok untuk persepsi, kepuasan, prevalensi, dan hubungan antar variabel dalam populasi.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM35",
+    "question": "Pada sistematika proposal penelitian di FK UKDW, pertanyaan atau masalah penelitian ada di bab berapa?",
+    "options": [
+      "Bab Satu",
+      "Bab Dua",
+      "Bab Tiga",
+      "Bab Empat",
+      "Bab Lima"
+    ],
+    "correct": 0,
+    "explanation": "Dalam sistematika proposal FK UKDW, Bab 1 (Pendahuluan) memuat: latar belakang, rumusan masalah/pertanyaan penelitian, tujuan, manfaat, dan hipotesis. Bab 2 = Tinjauan Pustaka, Bab 3 = Metode Penelitian.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM36",
+    "question": "Latar belakang diperlukannya Evidence-Based Medicine (EBM) sebagai dasar kedokteran adalah...",
+    "options": [
+      "Dokter berlatarbelakang pendidikan baik selalu dapat menyelesaikan masalah kesehatan pasien",
+      "Di era BPJS dan universal health coverage, kepuasan pasien menjadi yang utama",
+      "Nilai-nilai dan pengetahuan seorang dokter sudah cukup dalam tatalaksana pasien",
+      "Seorang dokter harus selalu membuat pilihan tatalaksana pasien berdasarkan ekspertise, kaidah pasien, dan bukti ilmiah",
+      "Pembuktian ilmiah menjadi satu-satunya dasar ilmu kedokteran modern"
+    ],
+    "correct": 3,
+    "explanation": "EBM diperlukan karena pengambilan keputusan klinis yang baik harus mengintegrasikan tiga pilar: (1) bukti ilmiah terbaik, (2) keahlian/ekspertise klinis dokter, dan (3) nilai/keinginan pasien — bukan hanya salah satu saja.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM37",
+    "question": "Insidensi kasus Covid-19 meningkat tajam sesudah masa liburan panjang. Penyumbang terbesar adalah kluster keluarga yang berwisata keluar kota. Tetangga kalian baru saja pulang dari luar kota. Ini berarti tetangga kalian mungkin terkena Covid-19. Pola pikir manakah yang paling sesuai dengan pernyataan di atas?",
+    "options": [
+      "Ontologi",
+      "Deduktif",
+      "Induktif",
+      "Epistemologi",
+      "Aksiologi"
+    ],
+    "correct": 2,
+    "explanation": "Pola pikir induktif: dari observasi/fakta spesifik (kluster liburan → peningkatan Covid, tetangga baru pulang liburan) → menarik kesimpulan umum/prediksi (tetangga mungkin terkena). Deduktif adalah sebaliknya: dari prinsip umum ke kesimpulan spesifik.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM38",
+    "question": "Metode penelitian kualitatif etnografi memiliki karakteristik...",
+    "options": [
+      "Menggunakan observasi partisipan dan wawancara mendalam dalam konteks budaya",
+      "Berfokus pada pengembangan teori baru dari data",
+      "Berfokus pada pengujian teori yang sudah ada",
+      "Pengumpulan data dan analisis dilakukan secara simultan",
+      "Berfokus pada pengalaman individu"
+    ],
+    "correct": 0,
+    "explanation": "Etnografi menggunakan participant observation (peneliti terlibat langsung dalam komunitas) dan in-depth interview untuk memahami budaya, perilaku, dan makna dalam konteks sosial-budaya subjek. Berbeda dari fenomenologi (pengalaman individu) dan grounded theory (pengembangan teori).",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM39",
+    "question": "Penelitian oleh dokter A di Dinas Kesehatan Provinsi B akan melibatkan pasien di rumah tahanan Provinsi tersebut. Guideline penelitian yang digunakan sebaiknya merujuk CIOMS 2016 tentang penelitian yang melibatkan...",
+    "options": [
+      "Kelompok dewasa yang tidak mampu memberikan informed consent",
+      "Kelompok anak dan ibu hamil",
+      "Kelompok rentan",
+      "Pasien dengan penyakit berat",
+      "Kelompok hewan coba atau jaringan"
+    ],
+    "correct": 2,
+    "explanation": "Pasien di rumah tahanan termasuk kelompok rentan (vulnerable populations) karena mereka berada di bawah tekanan institusional yang dapat mempengaruhi kebebasan dalam memberikan informed consent. CIOMS 2016 memberikan panduan khusus untuk penelitian pada kelompok rentan.",
+    "category": "Minites",
+    "img": null
+  },
+  {
+    "id": "MM40",
+    "question": "Pada model abstrak kedokteran (IMRAD), cara analisis data biasanya dituliskan pada bagian apa?",
+    "options": [
+      "Title",
+      "Introduction",
+      "Method",
+      "Result",
+      "Conclusion"
+    ],
+    "correct": 2,
+    "explanation": "Dalam struktur abstrak IMRAD (Introduction, Method, Result, And Discussion/Conclusion), cara analisis data — termasuk uji statistik yang digunakan — dituliskan pada bagian Method (Metode).",
+    "category": "Minites",
+    "img": null
+  }
+]
